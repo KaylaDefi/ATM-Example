@@ -1,3 +1,7 @@
+# ATM Example
+
+These files can be used within a react app to create a basic ATM that updates the total balance when someone makes a deposit or requests cash back. This app has basic styling to create a professional look. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
